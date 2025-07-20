@@ -4,8 +4,6 @@ joblib
 pydantic
 numpy
 pandas
-random
-string
 nltk
 scikit-learn
 matplotlib
