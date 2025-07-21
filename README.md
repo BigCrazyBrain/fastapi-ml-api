@@ -14,5 +14,5 @@ Este proyecto contiene una API desarrollada con FastAPI para exponer un modelo d
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/fastapi-ml-api.git
+https://github.com/BigCrazyBrain/fastapi-ml-api.git
 cd fastapi-ml-api
